@@ -46,7 +46,9 @@ Management:
 ## Activities
 
 Member of Laracasts since 2017. 3 Best reply awards.
-Participates in tech conventions annually (AFUP Days, Zenika, etc.).
+
+Participations in tech conventions annually (AFUP Days, Zenika, etc.).
+
 Following the evolution of the PHP Foundation on occasion.
 
 ## Education
