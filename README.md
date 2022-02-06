@@ -47,7 +47,7 @@ Management:
 
 Member of Laracasts since 2017. 3 Best reply awards.
 
-Participations in tech conventions annually (AFUP Days, Zenika, etc.).
+Participations in tech conventions every year (AFUP Days, Zenika, etc.).
 
 Following the evolution of the PHP Foundation on occasion.
 
@@ -55,7 +55,7 @@ Following the evolution of the PHP Foundation on occasion.
 
 ### Symfonycasts
 _feb. 2021_ : 
-**API Platformn certificate**, https://symfonycasts.com/certificates/A3D0B8B4C113
+**API Platform certificate**, https://symfonycasts.com/certificates/A3D0B8B4C113
 
 ### Université Paris-Est Marne-la-Vallée
 _2017_ : 
