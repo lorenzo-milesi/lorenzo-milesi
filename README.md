@@ -16,7 +16,7 @@ Developing online solutions for Automotive sector.
 ### ILoveCode.co
 _Anywhere_
 
-**Larave advisor** : _oct. 2016 to Present_
+**Laravel advisor** : _oct. 2016 to Present_
 
 Consulting and support. Gathering of freelancers according to the projects. Development of business solutions
 on frameworks.
