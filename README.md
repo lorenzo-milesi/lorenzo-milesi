@@ -5,6 +5,7 @@ Experimented back-end developer, 7 years in web and software development in Lara
 ## Links 
 
 https://ilovecode.co
+
 https://laracasts.com/@lorenzo-milesi
 
 ## Work Experience
