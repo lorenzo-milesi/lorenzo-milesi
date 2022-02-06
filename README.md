@@ -2,6 +2,11 @@ Hi there 👋, I'm Lorenzo Milesi.
 
 Experimented back-end developer, 7 years in web and software development in Laravel / Symfony. Expert in developing and consuming Rest API and managing tech teams (back-end and front-end developers and data engineers).
 
+## Links 
+
+https://ilovecode.co
+https://laracasts.com/@lorenzo-milesi
+
 ## Work Experience
 
 ### Dataneo
@@ -34,7 +39,7 @@ In a team of 8 people, development of business solutions.
 ## Skills
 
 Technical: 
-- `PHP 7-8+` `Laravel 5-8+` `Symfony 4-6`
+- `PHP 7-8+` `Laravel 5-8+` `Symfony 4-6` `TALL Stack`
 - `JavaScript` `TypeScript` `Vue.js`
 - `REST API`
 - `Docker`
