@@ -1,6 +1,6 @@
 Hi there 👋, I'm Lorenzo Milesi.
 
-Experimented back-end developer, 7 years in web and software development in Laravel / Symfony. Expert in developing and consuming Rest API and managing tech teams (back-end and front-end developers and data engineers).
+Experienced and professional lead developer with 7+ years in web and software development. I mainly develop Rest APIs and I aim to support teams (back-end, front-end developers and data-engineers).
 
 ## Links 
 
