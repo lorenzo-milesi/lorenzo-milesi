@@ -40,7 +40,7 @@ In a team of 8 people, development of business solutions.
 ## Skills
 
 Technical: 
-- `PHP 7-8+` `Laravel 5-8+` `Symfony 4-6` `TALL Stack`
+- `PHP 7-8+` `Laravel 5-9+` `Symfony 4-6` `TALL Stack`
 - `JavaScript` `TypeScript` `Vue.js`
 - `REST API`
 - `Docker`
